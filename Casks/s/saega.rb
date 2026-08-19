@@ -1,5 +1,4 @@
 # typed: strict
-# frozen_string_literal: true
 
 cask "saega" do
   arch arm: "arm64"
